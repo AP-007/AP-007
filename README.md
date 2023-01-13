@@ -1,13 +1,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sumankathet51)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sumankathet51&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sumankathet51&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 
 - 👋 Hi, I’m Suman Kathet
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Vuejs, Devops, Database and system design
+- 📫 How to reach me <a href="https://www.linkedin.com/in/suman-kathet-962423141/">LinkedIn</a>
 
 
